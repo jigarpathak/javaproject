@@ -9,7 +9,7 @@
 <title>Employees Details</title>
 </head>
 <body>
-	<h3>Employees Details</h3>
+	<h3>Benz Employees Details</h3>
 	<table border=1>
 		<thead>
 			<tr>
